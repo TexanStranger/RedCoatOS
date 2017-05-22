@@ -3,13 +3,22 @@ The world's most advanced penetration and testing OS... Now open source.
 
 To find the appropriate version, please use the branches tab to navigate.
 
-VERSION LIST:
+
+# Sub-Distro List:
+
+Forensics Mini (Live)
+
+
+Anatase Standard (Hybrid Live/HDD)
+
+
+# VERSION LIST:
 
 
 Anatase (0.1-1.0)
 
 
-MIRROR LIST:
+# MIRROR LIST:
 
 
 GitHub
@@ -19,17 +28,18 @@ Onion Mirror (Coming Soon)
 Australia Mirror (Coming Soon)
 
 
+
+# Donate to development via BTC:
+
 We're always looking for help, or donations... After all, those two things are what keeps this mammoth of a project alive.
 
-
-Donate to development via BTC:
 *COMING SOON*
 
-Tools List (Sorted into categories):
+# Tools List (Sorted into categories):
 
 
 
-Information Gathering:
+# Information Gathering:
 
 acccheck
 
@@ -153,7 +163,7 @@ Xplico
 
 
 
-Vulnerability Analysis:
+# Vulnerability Analysis:
 
 BBQSQL
 
@@ -213,7 +223,7 @@ Yersinia
 
 
 
-Exploitation Tools:
+# Exploitation Tools:
 
 Armitage
 
@@ -257,7 +267,7 @@ Yersinia
 
 
 
-Wireless Attacks:
+# Wireless Attacks:
 
 Aircrack-ng
 
@@ -329,7 +339,7 @@ Wifite
 
 
 
-Forensics Tools:
+# Forensics Tools:
 
 Binwalk
 
@@ -379,7 +389,7 @@ Xplico
 
 
 
-Web Applications:
+# Web Applications:
 
 apache-users
 
@@ -465,7 +475,7 @@ zaproxy
 
 
 
-Stress Testing:
+# Stress Testing:
 
 DHCPig
 
@@ -497,7 +507,7 @@ THC-SSL-DOS
 
 
 
-Sniffing & Spoofing:
+# Sniffing & Spoofing:
 
 Burp Suite
 
@@ -565,7 +575,7 @@ zaproxy
 
 
 
-Password Attacks:
+# Password Attacks:
 
 acccheck
 
@@ -641,7 +651,7 @@ zaproxy
 
 
 
-Maintaining Access:
+# Maintaining Access:
 
 CryptCat
 
@@ -679,7 +689,7 @@ Winexe
 
 
 
-Hardware Hacking:
+# Hardware Hacking:
 
 android-sdk
 
@@ -695,7 +705,7 @@ smali
 
 
 
-Reverse Engineering:
+# Reverse Engineering:
 
 apktool
 
@@ -721,7 +731,7 @@ YARA
 
 
 
-Reporting Tools:
+# Reporting Tools:
 
 CaseFile
 
