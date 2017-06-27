@@ -1,5 +1,5 @@
 # RedCoatOS
-The world's most advanced penetration and testing OS... Now open source.
+The world's most advanced penetration and testing OS, designed for the most professional network penetration and testing people, and those freedom fighting "Vigilante" script kiddies too... Now open source.
 
 To find the appropriate version, please use the branches tab to navigate.
 
