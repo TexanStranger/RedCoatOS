@@ -1,5 +1,5 @@
 # RedCoatOS
-The world's most advanced penetration and testing OS, designed for the most professional network penetration and testing people, and those freedom fighting "Vigilante" script kiddies too... Now open source.
+The world's most advanced penetration and testing OS, designed for the most professional network penetration and testing people, and those freedom fighting "Vigilante" script kiddies too...
 
 To find the appropriate version, please use the branches tab to navigate.
 
@@ -8,14 +8,12 @@ To find the appropriate version, please use the branches tab to navigate.
 
 Forensics Mini (Live)
 
-
-Anatase Standard (Hybrid Live/HDD)
-
+Panther
 
 # VERSION LIST:
 
 
-Anatase (0.1-1.0)
+Panther (1.0)
 
 
 # MIRROR LIST:
@@ -31,7 +29,7 @@ Australia Mirror (Coming Soon)
 
 # Donate to development via BTC:
 
-We're always looking for help, or donations... After all, those two things are what keeps this mammoth of a project alive.
+We're always looking for help, or donations... After all, those two things are what keeps this mammoth of a project alive and kicking.
 
 *COMING SOON*
 
